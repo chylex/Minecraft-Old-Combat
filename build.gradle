@@ -40,4 +40,8 @@ processResources{
 
 jar{
     archiveName = modname+"-"+project.minecraft.version+"-v"+modver+".jar"
+
+    manifest{
+        attributes 'FMLAT': 'oldcombat_at.cfg'
+    }
 }
