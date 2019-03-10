@@ -1,0 +1,12 @@
+[
+{
+  "modid": "oldcombat",
+  "name": "Old Combat",
+  "description": "Removes attack cooldown, and hides the cooldown indicator.",
+  "version": "1.0.0",
+  "url": "https://minecraft.curseforge.com/projects/old-combat",
+  "credits": "chylex",
+  "authorList": ["chylex"],
+  "logoFile": "logo.png"
+}
+]
